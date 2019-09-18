@@ -62,4 +62,6 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 *    text=auto
+
 *.cs text diff=csharp
+
